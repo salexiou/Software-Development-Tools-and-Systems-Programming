@@ -2,6 +2,10 @@
 
 This repository contains a Basic Twitter Viewer and Editor developed in Python. This project was created for the "Software Development Tools & Systems Programming" course at the Technical University of Crete.
 
+**Authors:** 
+* Georgios Argyris (AM: 2020030138)
+* Stamatios Alexiou (AM: 2020030158)
+
 ## 📖 Project Overview
 The main goal of this project is to apply standard software development practices and tools in Python. The application is built by iteratively applying Logging, Profiling, Refactoring, and Unit Testing to a foundational codebase. 
 
